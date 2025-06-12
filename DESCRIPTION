@@ -1,0 +1,22 @@
+Package: cRopscape
+Type: Package
+Title: Data from the United States Department of Agriculture's Cropland Data Layer
+Version: 0.2.0
+Authors@R: c(
+    person("N J", "Pinder", , "nicholas.pinder@des.sc.gov", role = c("aut")),
+    person("C A", "Pellett", , "c.alex.pellett@gmail.com", role = c("aut", "cre")),
+    person("State of South Carolina Department of Environmental Services", role = "fnd")
+  )
+Maintainer: Nicholas Pinder <nicholas.pinder@des.sc.gov>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R(>= 4.5)
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
