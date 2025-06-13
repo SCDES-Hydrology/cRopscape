@@ -7,7 +7,7 @@
 `cRopscape` is an open-source R-package published as a repository on
 GitHub. The package stores data from the US Department of Agriculture's Cropland Data Layer. 
 This website documents the cRopscape R-package and provides access to the data for 
-the general public withoutrequiring the use of R software.
+the general public without requiring the use of R software.
 
 This package was developed by Dr. Charles Alex Pellett, while working at
 the South Carolina Department of Natural Resources (SC DNR) and
