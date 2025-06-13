@@ -2,7 +2,7 @@
 
 # cRopscape
 
-## An R-package containing data from the Global Historical Climatological Network for the state of South Carolina.
+## An R-package containing data for the US Department of Agriculture's Cropland Data Layer for the state of South Carolina.
 
 `cRopscape` is an open-source R-package published as a repository on
 GitHub. The package stores data from the US Department of Agriculture's Cropland Data Layer. 
